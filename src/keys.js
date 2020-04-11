@@ -1,5 +1,6 @@
 module.exports = {
     database: {
-        URI: 'mongodb://localhost/red_social'
+        URI: 'mongodb+srv://thaeronm:thaeronm@cluster0-xfjga.mongodb.net/test?retryWrites=true&w=majority
+        '
     }
 };
